@@ -1,2 +1,0 @@
-# demomlops
-delete after exam
